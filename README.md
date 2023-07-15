@@ -6,5 +6,5 @@ A 3d hypercasual game that aims to move the player to select the encountered num
 
 
 
-https://github.com/softflied/CalculateRun/assets/102998343/fba7c8b6-546b-4cbb-838b-5c503d0445e3
+https://github.com/softflied/Calculate-Running/assets/102998343/aee78984-abcf-4f70-a6e1-ab262e9f385a
 
